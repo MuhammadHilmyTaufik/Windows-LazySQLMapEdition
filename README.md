@@ -1,9 +1,9 @@
 ![screenshot](https://scontent.fpku3-1.fna.fbcdn.net/v/t1.0-9/21557750_2042741135953712_5078261438831460254_n.jpg?oh=2f97d6a6bd568345cca1076e5eead7c4&oe=5A5ED863)
 
 ______________________________________
-# lazysqlmap
+# LazySQLMapEdition
 
-SQLMap For Lazy People Edition I made this SQLMap more easier to use
+SQLMap For LazySQLMapEdition I made this SQLMap more easier to use
 
 this project is under GNU General Public License v3.0
 ______________________________________
