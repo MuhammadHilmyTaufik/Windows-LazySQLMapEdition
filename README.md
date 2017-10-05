@@ -20,7 +20,7 @@ And Open Git Bash
 
 Clone / Download this repository from your terminal
 
-> git clone https://github.com/verluchie/termux-lazysqlmap
+> git clone https://github.com/Yoshieichiro01/Windows-LazySQLMapEdition.git
 
 Get in directory 
 
