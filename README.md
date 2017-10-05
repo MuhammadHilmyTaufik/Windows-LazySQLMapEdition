@@ -26,7 +26,7 @@ Clone / Download this repository from your terminal
 
 Get in directory 
 
-> cd lazysqlmap
+> cd Windows-LazySQLMapEdition
 
 Give Access Permission for install.sh
 
