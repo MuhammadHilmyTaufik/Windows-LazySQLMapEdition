@@ -14,6 +14,8 @@ Read this instruction :
 First:
 
 Install Python 2.7
+
+
 Install Git For Windows https://git-scm.com/download/win
 
 And Open Git Bash
